@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "116684111495",
+    "firebase_url": "https://fir-3-84e37.firebaseio.com",
+    "project_id": "fir-3-84e37",
+    "storage_bucket": "fir-3-84e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116684111495:android:8b0ee53f6bb9bf2b",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116684111495-t7p6boir9qe331urg3o5vrt665t0496q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnw3O9Mfpnz0oTfdVr55WW1nIqMeSORQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116684111495-t7p6boir9qe331urg3o5vrt665t0496q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116684111495:android:5f13a90a6a4b3e9d260222",
+        "android_client_info": {
+          "package_name": "com.example.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116684111495-t7p6boir9qe331urg3o5vrt665t0496q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnw3O9Mfpnz0oTfdVr55WW1nIqMeSORQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116684111495-t7p6boir9qe331urg3o5vrt665t0496q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

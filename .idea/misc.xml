@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_add.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_back.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_comments.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_home.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_like.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_liked.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_posts.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_profile.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_save.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_saved.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_search.xml" value="0.132" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable-anydpi-v24/ic_send.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable/btn_item.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/drawable/item.xml" value="0.137" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_comment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_details.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_edit.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_followers.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_following.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_main2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/comment_items.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/fragment_add.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/fragment_profile.xml" value="0.21" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/fragment_search.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/home_items.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/profile_items.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/layout/user_items.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/Mvvm/app/src/main/res/menu/bottom_nav.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
